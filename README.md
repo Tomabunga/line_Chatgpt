@@ -10,7 +10,7 @@ LINE messaging APIとChatGPTAPIの取得が必要です。
 * GASでWebhookを取得しLINE Developerに登録
 * ChatGPTAPIを取得
 * スプレッドシートを作成し、IDを取得
-*　LINE,ChatGPT,スプシIDをコードに入力
+*　LINE、ChatGPT、スプシIDをコードに入力
 ```javascript
 const LINE_ACCESS_TOKEN = "LINE_API_KEY";
 const GPT_KEY = "GPT_API_KEY";
